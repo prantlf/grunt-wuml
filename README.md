@@ -114,6 +114,7 @@ your code using Grunt.
 
 ## Release History
 
+ * 2016-03-05   v0.1.1   Update dependencies, improve build testing
  * 2016-01-09   v0.1.0   Initial release
 
 ## License
