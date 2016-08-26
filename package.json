@@ -1,7 +1,7 @@
 {
   "name": "grunt-wuml",
   "description": "Grunt task to generate images from yuml diagram sources by wuml",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "homepage": "https://github.com/prantlf/grunt-wuml",
   "author": {
     "name": "Ferdinand Prantl",
