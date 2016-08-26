@@ -58,8 +58,14 @@ module.exports = function (grunt) {
                 // If the destination is a directory, use the source file name
                 // with the target image format as extension
                 var dest = single ? file.dest : path.join(file.dest,
-                      path.parse(src).name + '.' + options.format),
+                           path.parse(src).name + '.' + options.format),
+                    ext = path.extname(dest).substring(1),
                     dir = path.dirname(dest);
+                // Replace the default PNG with the actual extension
+                // if no option was provided, only the file extension
+                if (ext === 'jpg' || ext === 'png' || ext === 'svg') {
+                  options.format = ext;
+                }
                 grunt.file.mkdir(dir);
                 return processDiagram(src, dest, options);
               });
