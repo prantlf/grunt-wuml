@@ -5,8 +5,8 @@ node_js:
     - "5"
     - "6"
 addons:
-    apt:
-        packages:
+  apt:
+    packages:
         - librsvg2-bin
         - graphviz
         - plotutils
