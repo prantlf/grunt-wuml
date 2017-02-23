@@ -114,6 +114,7 @@ your code using Grunt.
 
 ## Release History
 
+ * 2017-02-23   v0.2.1   Update dependencies
  * 2016-26-08   v0.2.0   Upgrade to Grunt 1.x
                          Detect output format from file extension
  * 2016-03-05   v0.1.1   Update dependencies, improve build testing
@@ -121,7 +122,7 @@ your code using Grunt.
 
 ## License
 
-Copyright (c) 2016 Ferdinand Prantl
+Copyright (c) 2016-2017 Ferdinand Prantl
 
 Licensed under the MIT license.
 
