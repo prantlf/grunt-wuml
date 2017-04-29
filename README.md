@@ -1,5 +1,7 @@
 # grunt-wuml [![NPM version](https://badge.fury.io/js/grunt-wuml.png)](http://badge.fury.io/js/grunt-wuml) [![Build Status](https://travis-ci.org/prantlf/grunt-wuml.png)](https://travis-ci.org/prantlf/grunt-wuml) [![Coverage Status](https://coveralls.io/repos/prantlf/grunt-wuml/badge.svg)](https://coveralls.io/r/prantlf/grunt-wuml) [![Dependency Status](https://david-dm.org/prantlf/grunt-wuml.svg)](https://david-dm.org/prantlf/grunt-wuml) [![devDependency Status](https://david-dm.org/prantlf/grunt-wuml/dev-status.svg)](https://david-dm.org/prantlf/grunt-wuml#info=devDependencies) [![devDependency Status](https://david-dm.org/prantlf/grunt-wuml/peer-status.svg)](https://david-dm.org/prantlf/grunt-wuml#info=peerDependencies) [![Code Climate](https://codeclimate.com/github/prantlf/grunt-wuml/badges/gpa.svg)](https://codeclimate.com/github/prantlf/grunt-wuml) [![Codacy Badge](https://www.codacy.com/project/badge/f3896e8dfa5342b8add12d50390edfcd)](https://www.codacy.com/public/prantlf/grunt-wuml) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/prantlf/grunt-wuml.svg)](https://greenkeeper.io/)
+
 [![NPM Downloads](https://nodei.co/npm/grunt-wuml.png?downloads=true&stars=true)](https://www.npmjs.com/package/grunt-wuml)
 
 This module provides a grunt multi-task generating images from [yuml]
